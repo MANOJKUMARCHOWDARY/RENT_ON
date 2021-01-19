@@ -10549,14 +10549,11 @@ a.ui-button:active,
 
 @font-face {
     font-family: 'icomoon';
-    src:  url('../fonts/icomoon.eot?jvzn1r');
-    src:  url('../fonts/icomoon.eot?jvzn1r#iefix') format('embedded-opentype'),
-      url('../fonts/icomoon.ttf?jvzn1r') format('truetype'),
-      url('../fonts/icomoon.woff?jvzn1r') format('woff'),
-      url('../fonts/icomoon.svg?jvzn1r#icomoon') format('svg');
+    src: url('../fonts/icomoon.eot?jvzn1r');
+    src: url('../fonts/icomoon.eot?jvzn1r#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?jvzn1r') format('truetype'), url('../fonts/icomoon.woff?jvzn1r') format('woff'), url('../fonts/icomoon.svg?jvzn1r#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
-  }
+}
 
 [class*=" icon-"],
 [class^=icon-] {
@@ -10674,9 +10671,10 @@ a.ui-button:active,
     content: "\e90c"
 }
 
-.icon-close::before {
+
+/* .icon-close::before {
     content: "\e90d"
-}
+} */
 
 .icon-right-arrow::before {
     content: "\e90e"
@@ -20771,7 +20769,7 @@ body.rs-pl-mobile-category-nav-active {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(255, 255, 255, .9);
+    background: #109ba7;
     z-index: 1
 }
 
@@ -20790,7 +20788,7 @@ body.rs-pl-mobile-category-nav-active {
 
 .rs-signup-left-tagline {
     font-size: 16px;
-    color: #282a37;
+    color: #fff;
     margin: 0;
     font-weight: 400;
     line-height: 1.8
@@ -20806,7 +20804,7 @@ body.rs-pl-mobile-category-nav-active {
 }
 
 .rs-signup-left-logo>img {
-    max-height: 36px
+    max-height: 100%
 }
 
 .rs-signup-modal-title {
@@ -30757,6 +30755,7 @@ input[type=file].rs-input-notification-text.error::before {
         padding: 5px 0 0 0
     }
 }
-.navbar-header{
+
+.navbar-header {
     background: #109ba7;
 }
