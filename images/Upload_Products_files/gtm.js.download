@@ -657,7 +657,7 @@ var data = {
     },{
       "function":"__html",
       "once_per_event":true,
-      "vtp_html":"\u003Cscript type=\"text\/gtmscript\"\u003E(function(){var b={\"@context\":\"http:\/\/schema.org\",\"@type\":\"Organization\",url:\"https:\/\/www.rentsher.com\",logo:\"https:\/\/www.rentsher.com\/images\/android-icon-192x192.png\",contactPoint:[{\"@type\":\"ContactPoint\",telephone:\"+91 8884449644\",contactType:\"customer service\"}]},a=document.createElement(\"script\");a.type=\"application\/ld+json\";a.innerHTML=JSON.stringify(b);document.getElementsByTagName(\"head\")[0].appendChild(a)})(document);\u003C\/script\u003E\t\n",
+      "vtp_html":"\u003Cscript type=\"text\/gtmscript\"\u003E(function(){var b={\"@context\":\"http:\/\/schema.org\",\"@type\":\"Organization\",url:\"https:\/\/www.rentsher.com\",logo:\"https:\/\/www.rentsher.com\/images\/android-icon-192x192.png\",contactPoint:[{\"@type\":\"ContactPoint\",telephone:\"+91 1234567890\",contactType:\"customer service\"}]},a=document.createElement(\"script\");a.type=\"application\/ld+json\";a.innerHTML=JSON.stringify(b);document.getElementsByTagName(\"head\")[0].appendChild(a)})(document);\u003C\/script\u003E\t\n",
       "vtp_supportDocumentWrite":false,
       "vtp_enableIframeMode":false,
       "vtp_enableEditJsMacroBehavior":false,
@@ -701,7 +701,7 @@ var data = {
       "function":"__html",
       "metadata":["map"],
       "once_per_event":true,
-      "vtp_html":"\u003Cscript type=\"application\/ld+json\"\u003E\n{\n\t\"@context\": \"http:\/\/schema.org\",\n\t\"@type\": \"Organization\",\n\t\"name\": \"RSIN Flexirentals\",\n\t\"description\": \"RSIN Flexirentals is India's largest provider for IT and AV rentals. We provide laptops, desktops, macbooks, projectors and sound systems on rent. Rentsher provides delivery, service and pickup\",\n\t\"logo\": \"https:\/\/web_rentsher_india.gumlet.com\/images\/rent-sher-logo.svg?format=auto\u0026compress=true\",\n\t\"url\": \"https:\/\/www.rentsher.com\",\n\t\"telephone\": \"+918884449644\",\n\t\"sameAs\": [\"https:\/\/twitter.com\/rentsher?lang=en\",\"https:\/\/www.linkedin.com\/company\/rentsher-india\/\",\"https:\/\/www.facebook.com\/RentSher\/\",\"https:\/\/www.youtube.com\/channel\/UCPchYviB0QWbcC9iRJXkBFw\",\"https:\/\/www.instagram.com\/rentsher_india\/?hl=en\"],\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"BUBBLESPACE COWORKING, NO 5AC, 824, 1ST BLOCK\",\n\t\t\"addressLocality\": \"Bangalore\",\n\t\t\"postalCode\": \"560043\",\n\t\t\"addressCountry\": \"India\"\n\t}\n}\n\u003C\/script\u003E",
+      "vtp_html":"\u003Cscript type=\"application\/ld+json\"\u003E\n{\n\t\"@context\": \"http:\/\/schema.org\",\n\t\"@type\": \"Organization\",\n\t\"name\": \"RSIN Flexirentals\",\n\t\"description\": \"RSIN Flexirentals is India's largest provider for IT and AV rentals. We provide laptops, desktops, macbooks, projectors and sound systems on rent. Rentsher provides delivery, service and pickup\",\n\t\"logo\": \"https:\/\/web_rentsher_india.gumlet.com\/images\/rent-sher-logo.svg?format=auto\u0026compress=true\",\n\t\"url\": \"https:\/\/www.rentsher.com\",\n\t\"telephone\": \"+911234567890\",\n\t\"sameAs\": [\"https:\/\/twitter.com\/rentsher?lang=en\",\"https:\/\/www.linkedin.com\/company\/rentsher-india\/\",\"https:\/\/www.facebook.com\/RentSher\/\",\"https:\/\/www.youtube.com\/channel\/UCPchYviB0QWbcC9iRJXkBFw\",\"https:\/\/www.instagram.com\/rentsher_india\/?hl=en\"],\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"BUBBLESPACE COWORKING, NO 5AC, 824, 1ST BLOCK\",\n\t\t\"addressLocality\": \"Bangalore\",\n\t\t\"postalCode\": \"560043\",\n\t\t\"addressCountry\": \"India\"\n\t}\n}\n\u003C\/script\u003E",
       "vtp_supportDocumentWrite":false,
       "vtp_enableIframeMode":false,
       "vtp_enableEditJsMacroBehavior":false,
@@ -727,7 +727,7 @@ var data = {
     },{
       "function":"_eq",
       "arg0":["macro",6],
-      "arg1":"tel:+91 8884449644"
+      "arg1":"tel:+91 1234567890"
     },{
       "function":"_eq",
       "arg0":["macro",0],

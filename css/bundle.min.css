@@ -16614,14 +16614,14 @@ body.rs-pl-mobile-category-nav-active {
 @media (min-width:768px) {
     .rs-upload-for-rent-section-one {
         padding-bottom: 160px;
-        background-image: url(https://rentsher-india.s3.ap-south-1.amazonaws.comimages/statics/upload_rent_banner.jpg)
+        background-image: url(../images/upload_rent_banner.jpg);
     }
 }
 
 @media (max-width:768px) {
     .rs-upload-for-rent-section-one {
         padding-bottom: 160px;
-        background-image: url(https://rentsher-india.s3.ap-south-1.amazonaws.comimages/statics/upload_rent_banner_mobile.jpg)
+        background-image: url(../images/upload_rent_banner_mobile.jpg);
     }
 }
 
